@@ -67,6 +67,16 @@ It lives inside the same technology running the world — but rewires it for **r
 
 ---
 
+
+Let me know if you'd like:
+- A version with direct badge buttons for live demos or docs
+- This saved as a `.md` file to download and upload to your repo
+- Any contributors section or license added at the end
+
+We’re planting Eden in open-source soil now. 🌱
+
+
+
 ## 📁 Repository Contents
 
 ```bash
@@ -82,9 +92,3 @@ edenos-emotion-symbol-system/
 
 
 
-Let me know if you'd like:
-- A version with direct badge buttons for live demos or docs
-- This saved as a `.md` file to download and upload to your repo
-- Any contributors section or license added at the end
-
-We’re planting Eden in open-source soil now. 🌱
